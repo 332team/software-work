@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(26): warning C4101: “buffTmp”: 未引用的局部变量
+    正在创建库 C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Demo3_simplepicture\Release\Demo3_simplepicture.lib 和对象 C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Demo3_simplepicture\Release\Demo3_simplepicture.exp
+  正在生成代码
+  1 of 440 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Demo3_simplepicture.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Demo3_simplepicture\Release\Demo3_simplepicture.exe
+  Demo3_simplepicture.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Demo3_simplepicture\Release\Demo3_simplepicture.pdb (Full PDB)
