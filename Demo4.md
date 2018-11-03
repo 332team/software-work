@@ -148,7 +148,7 @@ int main()
 }
 ```
 
-`` ![模糊](F:\software-work\mohu.jpg)
+``  ![mohu](mohu.jpg)
 
 上面这个是运动模糊：
 
