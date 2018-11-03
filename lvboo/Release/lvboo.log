@@ -1,0 +1,13 @@
+﻿  .cpp
+.cpp(14): warning C4838: 从“double”转换到“int”需要收缩转换
+.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+.cpp(120): warning C4244: “=”: 从“double”转换到“GByte”，可能丢失数据
+.cpp(121): warning C4244: “=”: 从“double”转换到“GByte”，可能丢失数据
+.cpp(122): warning C4244: “=”: 从“double”转换到“GByte”，可能丢失数据
+.cpp(32): warning C4101: “buffTmp”: 未引用的局部变量
+    正在创建库 F:\software-work\lvboo\Release\lvboo.lib 和对象 F:\software-work\lvboo\Release\lvboo.exp
+  正在生成代码
+  All 440 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  lvboo.vcxproj -> F:\software-work\lvboo\Release\lvboo.exe
+  lvboo.vcxproj -> F:\software-work\lvboo\Release\lvboo.pdb (Full PDB)
