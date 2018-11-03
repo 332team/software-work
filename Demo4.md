@@ -148,7 +148,7 @@ int main()
 }
 ```
 
-``  ![mohu](mohu.jpg)
+``  图片![mohu](mohu.jpg)
 
 上面这个是运动模糊：
 
