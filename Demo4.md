@@ -146,25 +146,32 @@ int main()
 	system("PAUSE");
 	return 0;
 }
-
 ```
 
-`` ![模糊](C:\Users\lenovo\Desktop\模糊.jpg)
+`` ![模糊](F:\software-work\mohu.jpg)
 
-上面这个是运动模糊： ![gaosimohu](C:\Users\lenovo\Desktop\gaosimohu.jpg)
+上面这个是运动模糊：
 
-上面这个是高斯模糊： ![1](C:\Users\lenovo\Desktop\1.jpg)
+ ![ ![1](1.jpg)](gaosimohu.jpg)
 
-上面这个是锐化吧。 用矩阵int  a[3][3] = { 0,1,0,1,1,1,0,1,0 };得到的![4](C:\Users\lenovo\Desktop\4.jpg)
+
+
+上面这个是高斯模糊：
+
+  ![1](1.jpg)
+
+上面这个是锐化吧。 用矩阵int  a[3][3] = { 0,1,0,1,1,1,0,1,0 };得到的
 
 上面是用第四个矩阵得到，但是我在最后乘了0.2int d[3][3] = { -1,-1,-1,-1,9,-1,-1,-1,-1 }*0.2;
 
-因为不成都看不出是什么图了，就一堆乱七八糟的 ，不知道为什么![3](C:\Users\lenovo\Desktop\3.jpg)
+因为不成都看不出是什么图了，就一堆乱七八糟的 ，不知道为什么
+
+ ![3](3.jpg)
 
 上面是用第三个矩阵得到，但是我在最后乘了0.2int c[3][3] = { -1,-1,-1,-1,8,-1,-1,-1,-1}* !
 
 因为不成都看不出是什么图了，就一堆乱七八糟的 ，不知道为什么 
 
- ![c](C:\Users\lenovo\Desktop\c.jpg)
+  ![c](c.jpg)
 
 上面是用第五个矩阵做的，它应该是浮雕的，可是为什么。。。
